@@ -3,9 +3,9 @@
   "theme": "linden",
   "name": "Pluto",
   "colors": {
-    "primary": "#A9A9A9",
-    "light": "#2692FF",
-    "dark": "#0060FF"
+    "primary": "#0096FF",
+    "light": "#FFFFFF",
+    "dark": "#0086FF"
   },
   "favicon": {
     "light": "/images/pluto-logo.png",
