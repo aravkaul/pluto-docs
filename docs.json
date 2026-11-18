@@ -79,5 +79,8 @@
   "fonts": {
     "family": "Inter",
     "weight": 400
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
