@@ -5,28 +5,13 @@
   "colors": {
     "primary": "#3F6AC4",
     "light": "#FFFFFF",
-    "dark": "#858585"
+    "dark": "#000000"
   },
   "favicon": {
     "light": "/images/pluto-logo.png",
     "dark": "/images/pluto-blk.png"
   },
   "navigation": {
-    "pages": [
-      {
-        "group": "Home",
-        "pages": [
-          "a"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -40,7 +25,21 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Home",
+        "pages": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/a50a6fa2-97f1-402b-aa5d-124851b61d8e.png",
