@@ -3,7 +3,7 @@
   "theme": "linden",
   "name": "Pluto",
   "colors": {
-    "primary": "#A0A0A0",
+    "primary": "#A9A9A9",
     "light": "#2692FF",
     "dark": "#0060FF"
   },
@@ -74,7 +74,7 @@
   },
   "description": "Docs for Pluto",
   "icons": {
-    "library": "lucide"
+    "library": "fontawesome"
   },
   "fonts": {
     "family": "Inter",
