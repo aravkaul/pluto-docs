@@ -22,7 +22,9 @@
       },
       {
         "group": "Home",
-        "pages": []
+        "pages": [
+          "a"
+        ]
       }
     ],
     "global": {
