@@ -85,6 +85,7 @@
     "content": "Docs is live!"
   },
   "fonts": {
-    "family": "Inter"
+    "family": "Inter",
+    "weight": 400
   }
 }
