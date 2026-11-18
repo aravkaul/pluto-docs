@@ -30,17 +30,19 @@
       {
         "tab": "Home",
         "pages": [
+          "index"
+        ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
           {
-            "group": "Getting Started",
+            "group": "Guide",
             "pages": [
-              "index",
               "quickstart"
             ]
           }
         ]
-      },
-      {
-        "tab": "Guides"
       },
       {
         "tab": "API Reference"
