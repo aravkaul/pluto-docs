@@ -82,5 +82,8 @@
   },
   "background": {
     "decoration": "grid"
+  },
+  "banner": {
+    "content": "Docs is live!"
   }
 }
