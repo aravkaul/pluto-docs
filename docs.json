@@ -19,6 +19,10 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Home",
+        "pages": []
       }
     ],
     "global": {
