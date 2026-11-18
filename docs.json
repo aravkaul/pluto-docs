@@ -14,16 +14,16 @@
   "navigation": {
     "pages": [
       {
+        "group": "Home",
+        "pages": [
+          "a"
+        ]
+      },
+      {
         "group": "Getting Started",
         "pages": [
           "index",
           "quickstart"
-        ]
-      },
-      {
-        "group": "Home",
-        "pages": [
-          "a"
         ]
       }
     ],
