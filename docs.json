@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "aspen",
+  "theme": "linden",
   "name": "Pluto",
   "colors": {
     "primary": "#3C82F6",
@@ -78,8 +78,5 @@
   },
   "fonts": {
     "family": "Geist"
-  },
-  "background": {
-    "decoration": "grid"
   }
 }
