@@ -83,5 +83,8 @@
   },
   "banner": {
     "content": "Docs is live!"
+  },
+  "fonts": {
+    "family": "Inter"
   }
 }
