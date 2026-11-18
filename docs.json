@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "mint",
   "name": "Pluto",
   "colors": {
-    "primary": "#3F6AC4",
+    "primary": "#858585",
     "light": "#FFFFFF",
     "dark": "#000000"
   },
@@ -93,5 +93,8 @@
   "fonts": {
     "family": "Inter",
     "weight": 400
+  },
+  "styling": {
+    "codeblocks": "system"
   }
 }
