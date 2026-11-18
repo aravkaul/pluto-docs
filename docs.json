@@ -3,7 +3,7 @@
   "theme": "aspen",
   "name": "Pluto",
   "colors": {
-    "primary": "#7F7F7F",
+    "primary": "#3F6AC4",
     "light": "#FFFFFF",
     "dark": "#858585"
   },
@@ -75,13 +75,6 @@
   "description": "Docs for Pluto",
   "icons": {
     "library": "fontawesome"
-  },
-  "fonts": {
-    "family": "Inter",
-    "weight": 400
-  },
-  "background": {
-    "decoration": "grid"
   },
   "banner": {
     "content": "Docs is live!"
