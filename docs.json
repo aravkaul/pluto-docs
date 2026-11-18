@@ -78,5 +78,8 @@
   },
   "fonts": {
     "family": "Geist"
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
